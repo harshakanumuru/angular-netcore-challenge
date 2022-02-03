@@ -64,7 +64,7 @@
           <h2 class="text-center">Summary</h2>
         </div>
         <div class="card-body" *ngIf="carRegistrationModel.fullName?.length > 75">
-          <div class="custom-text" [innerHTML]="carRegistration.fullName"></div>
+          <div class="custom-text">{{carRegistrationModel.fullName}}</div>
         </div>
       </div>
     </div>
