@@ -1,0 +1,72 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-9">
+      <div class="card">
+        <div class="card-header">
+          <h2 class="text-center">Registration Form</h2>
+        </div>
+        <div class="card-body">
+          <form [formGroup]="carRegistrationForm" (ngSubmit)="carRegistrationForm.valid && submitForm()">
+            <div class="row">
+              <div class="col-md-4 mt-1">
+                <mat-form-field class="mat-form-control" appearance="outline">
+                  <mat-label>Full Name</mat-label>
+                  <input matInput type="text" name="fullName" id="fullName" formControlName="fullName"
+                    [(ngModel)]="carRegistrationModel.fullName" [errorStateMatcher]="matcher">
+                  <mat-error *ngIf="carRegistrationForm.get('fullName').hasError('required')">
+                    Full Name is <strong>required</strong>
+                  </mat-error>
+                  <mat-error *ngIf="carRegistrationForm.get('fullName').hasError('maxlength')">
+                    Max <strong>75</strong> characters are allowed
+                  </mat-error>
+                  <mat-error *ngIf="carRegistrationForm.get('fullName').hasError('pattern')">
+                    Only a-z A-Z characters are allowed
+                  </mat-error>
+                </mat-form-field>
+              </div>
+              <div class="col-md-4">
+                <ng-select id="selectedCar" name="selectedCar" formControlName="selectedCar"
+                  [(ngModel)]="carRegistrationModel.selectedCar" appearance="outline" placeholder="Car">
+                  <ng-option *ngFor="let car of carOptions" [value]="car.brand" [innerHTML]="car.brand"></ng-option>
+                </ng-select>
+              </div>
+              <div class="col-md-4">
+                <ng-select id="selectedAutoParts" name="selectedAutoParts" formControlName="selectedAutoParts"
+                  [(ngModel)]="carRegistrationModel.selectedAutoParts" appearance="outline" placeholder="Auto Parts"
+                  [multiple]="true">
+                  <ng-option *ngFor="let item of autoPartsOptions" [value]="item.autoParts"
+                    [innerHTML]="item.autoParts">
+                  </ng-option>
+                </ng-select>
+              </div>
+              <div class="col-md-4 mt-3">
+                <mat-form-field class="mat-form-control" appearance="outline">
+                  <mat-label>Color Palette</mat-label>
+                  <input matInput type="color" name="colorCode" id="colorCode" formControlName="colorCode"
+                    [(ngModel)]="carRegistrationModel.colorCode">
+                </mat-form-field>
+              </div>
+              <div class="row mt-2">
+                <div class="col d-flex justify-content-end">
+                  <button type="button" class="btn btn-secondary m-2" (click)="resetForm()">Reset</button>
+                  <button type="submit" class="btn btn-primary m-2"
+                    [disabled]="!carRegistrationForm.valid">Register</button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card">
+        <div class="card-header">
+          <h2 class="text-center">Summary</h2>
+        </div>
+        <div class="card-body" *ngIf="carRegistrationModel.fullName?.length > 75">
+          <div class="custom-text" [innerHTML]="carRegistration.fullName"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

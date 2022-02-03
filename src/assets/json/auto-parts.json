@@ -1,0 +1,1475 @@
+[
+  {
+    "autoParts": "Bonnet/hood"
+  },
+  {
+    "autoParts": "Bonnet/hood latch"
+  },
+  {
+    "autoParts": "Bumper"
+  },
+  {
+    "autoParts": "Unexposed bumper"
+  },
+  {
+    "autoParts": "Exposed bumper"
+  },
+  {
+    "autoParts": "Cowl screen"
+  },
+  {
+    "autoParts": "Decklid"
+  },
+  {
+    "autoParts": "Fascia rear and support"
+  },
+  {
+    "autoParts": "Fender (wing or mudguard)"
+  },
+  {
+    "autoParts": "Front clip"
+  },
+  {
+    "autoParts": "Front fascia and header panel"
+  },
+  {
+    "autoParts": "Grille (also called grill)"
+  },
+  {
+    "autoParts": "Pillar and hard trim"
+  },
+  {
+    "autoParts": "Quarter panel"
+  },
+  {
+    "autoParts": "Radiator core support"
+  },
+  {
+    "autoParts": "Rocker panel"
+  },
+  {
+    "autoParts": "Roof rack"
+  },
+  {
+    "autoParts": "Spoiler"
+  },
+  {
+    "autoParts": "Front spoiler (air dam)"
+  },
+  {
+    "autoParts": "Rear spoiler (wing)"
+  },
+  {
+    "autoParts": "Rims"
+  },
+  {
+    "autoParts": "Hubcap"
+  },
+  {
+    "autoParts": "Tire/Tyre"
+  },
+  {
+    "autoParts": "Trim package"
+  },
+  {
+    "autoParts": "Trunk/boot/hatch"
+  },
+  {
+    "autoParts": "Trunk/boot latch"
+  },
+  {
+    "autoParts": "Valance"
+  },
+  {
+    "autoParts": "Welded assembly"
+  },
+  {
+    "autoParts": "Outer door handle"
+  },
+  {
+    "autoParts": "Inner door handle"
+  },
+  {
+    "autoParts": "Door control module"
+  },
+  {
+    "autoParts": "Door seal"
+  },
+  {
+    "autoParts": "Door watershield"
+  },
+  {
+    "autoParts": "Hinge"
+  },
+  {
+    "autoParts": "Door latch"
+  },
+  {
+    "autoParts": "Door lock and power door locks"
+  },
+  {
+    "autoParts": "Center-locking"
+  },
+  {
+    "autoParts": "Fuel tank (or fuel filler) door"
+  },
+  {
+    "autoParts": "Glass"
+  },
+  {
+    "autoParts": "Sunroof"
+  },
+  {
+    "autoParts": "Sunroof motor"
+  },
+  {
+    "autoParts": "Window motor"
+  },
+  {
+    "autoParts": "Window regulator"
+  },
+  {
+    "autoParts": "Windshield (also called windscreen)"
+  },
+  {
+    "autoParts": "Windshield washer motor"
+  },
+  {
+    "autoParts": "Window seal"
+  },
+  {
+    "autoParts": "Antenna assembly"
+  },
+  {
+    "autoParts": "Antenna cable"
+  },
+  {
+    "autoParts": "Radio and media player"
+  },
+  {
+    "autoParts": "Other devices"
+  },
+  {
+    "autoParts": "Speaker"
+  },
+  {
+    "autoParts": "Tuner"
+  },
+  {
+    "autoParts": "Subwoofer"
+  },
+  {
+    "autoParts": "Alternator"
+  },
+  {
+    "autoParts": "Alternator bearing"
+  },
+  {
+    "autoParts": "Alternator bracket"
+  },
+  {
+    "autoParts": "Alternator fan"
+  },
+  {
+    "autoParts": "Other alternator parts"
+  },
+  {
+    "autoParts": "Battery"
+  },
+  {
+    "autoParts": "Performance battery"
+  },
+  {
+    "autoParts": "Battery box"
+  },
+  {
+    "autoParts": "Battery cable terminal"
+  },
+  {
+    "autoParts": "Battery cable"
+  },
+  {
+    "autoParts": "Battery control system"
+  },
+  {
+    "autoParts": "Battery plate"
+  },
+  {
+    "autoParts": "Battery tray"
+  },
+  {
+    "autoParts": "Voltage regulator"
+  },
+  {
+    "autoParts": "Ammeter"
+  },
+  {
+    "autoParts": "Clinometer"
+  },
+  {
+    "autoParts": "Dynamometer"
+  },
+  {
+    "autoParts": "Fuel gauge"
+  },
+  {
+    "autoParts": "Hydrometer"
+  },
+  {
+    "autoParts": "Odometer (also called milometer or mileometers)"
+  },
+  {
+    "autoParts": "Speedometer"
+  },
+  {
+    "autoParts": "Tachometer (also called rev counters)"
+  },
+  {
+    "autoParts": "Temperature gauge"
+  },
+  {
+    "autoParts": "Tire pressure gauge"
+  },
+  {
+    "autoParts": "Vacuum gauge"
+  },
+  {
+    "autoParts": "Voltmeter"
+  },
+  {
+    "autoParts": "Water temperature meter"
+  },
+  {
+    "autoParts": "Coil wire"
+  },
+  {
+    "autoParts": "Distributor"
+  },
+  {
+    "autoParts": "Electronic timing controller"
+  },
+  {
+    "autoParts": "Ignition box"
+  },
+  {
+    "autoParts": "Ignition coil"
+  },
+  {
+    "autoParts": "Ignition coil parts"
+  },
+  {
+    "autoParts": "Ignition magneto"
+  },
+  {
+    "autoParts": "Spark plug"
+  },
+  {
+    "autoParts": "Engine bay lighting"
+  },
+  {
+    "autoParts": "Fog light (also called foglamp)"
+  },
+  {
+    "autoParts": "Halogen"
+  },
+  {
+    "autoParts": "Headlight (also called headlamp)"
+  },
+  {
+    "autoParts": "Headlight motor"
+  },
+  {
+    "autoParts": "Interior light and lamp"
+  },
+  {
+    "autoParts": "License plate lamp (also called number plate lamp or registration plate lamp)"
+  },
+  {
+    "autoParts": "Side lighting"
+  },
+  {
+    "autoParts": "Tail light"
+  },
+  {
+    "autoParts": "Tail light cover"
+  },
+  {
+    "autoParts": "Airbag sensors"
+  },
+  {
+    "autoParts": "Automatic transmission speed sensor"
+  },
+  {
+    "autoParts": "Camshaft position sensor"
+  },
+  {
+    "autoParts": "Coolant temperature sensor"
+  },
+  {
+    "autoParts": "Crankshaft position sensor"
+  },
+  {
+    "autoParts": "Engine sensor"
+  },
+  {
+    "autoParts": "Fuel level sensor"
+  },
+  {
+    "autoParts": "Fuel Pressure sensor"
+  },
+  {
+    "autoParts": "Knock sensor"
+  },
+  {
+    "autoParts": "Light sensor"
+  },
+  {
+    "autoParts": "Oil level sensor"
+  },
+  {
+    "autoParts": "Oil pressure sensor"
+  },
+  {
+    "autoParts": "Mass flow sensor"
+  },
+  {
+    "autoParts": "Starter"
+  },
+  {
+    "autoParts": "Starter drive"
+  },
+  {
+    "autoParts": "Starter motor"
+  },
+  {
+    "autoParts": "Starter solenoid"
+  },
+  {
+    "autoParts": "Glowplug"
+  },
+  {
+    "autoParts": "Battery"
+  },
+  {
+    "autoParts": "Door switch"
+  },
+  {
+    "autoParts": "Ignition switch"
+  },
+  {
+    "autoParts": "Power window switch"
+  },
+  {
+    "autoParts": "Steering column switch"
+  },
+  {
+    "autoParts": "Switch cover"
+  },
+  {
+    "autoParts": "Switch panel"
+  },
+  {
+    "autoParts": "Thermostat"
+  },
+  {
+    "autoParts": "Frame switch"
+  },
+  {
+    "autoParts": "Parts and functions of starter system"
+  },
+  {
+    "autoParts": "Air conditioning harness"
+  },
+  {
+    "autoParts": "Engine compartment harness"
+  },
+  {
+    "autoParts": "Interior harness"
+  },
+  {
+    "autoParts": "Main harness"
+  },
+  {
+    "autoParts": "floor harness"
+  },
+  {
+    "autoParts": "control harness"
+  },
+  {
+    "autoParts": "Air bag control module"
+  },
+  {
+    "autoParts": "Alarm and siren"
+  },
+  {
+    "autoParts": "Central locking system"
+  },
+  {
+    "autoParts": "Chassis control computer"
+  },
+  {
+    "autoParts": "Cruise control computer"
+  },
+  {
+    "autoParts": "Door contact"
+  },
+  {
+    "autoParts": "Engine computer and management system"
+  },
+  {
+    "autoParts": "Engine control unit"
+  },
+  {
+    "autoParts": "Fuse"
+  },
+  {
+    "autoParts": "Fuse box"
+  },
+  {
+    "autoParts": "Ground strap"
+  },
+  {
+    "autoParts": "Grab Handle (aka \"Oh S***\" Handle)"
+  },
+  {
+    "autoParts": "Performance chip"
+  },
+  {
+    "autoParts": "Performance monitor"
+  },
+  {
+    "autoParts": "Relay connector"
+  },
+  {
+    "autoParts": "Remote lock"
+  },
+  {
+    "autoParts": "Shift improver"
+  },
+  {
+    "autoParts": "Speed controller"
+  },
+  {
+    "autoParts": "Speedometer calibrator"
+  },
+  {
+    "autoParts": "Transmission computer"
+  },
+  {
+    "autoParts": "Wiring connector"
+  },
+  {
+    "autoParts": "Dash Panels"
+  },
+  {
+    "autoParts": "Carpet and other floor material"
+  },
+  {
+    "autoParts": "Center console (front and rear)"
+  },
+  {
+    "autoParts": "Trap (secret compartment)"
+  },
+  {
+    "autoParts": "Arm Rest"
+  },
+  {
+    "autoParts": "Bench seat"
+  },
+  {
+    "autoParts": "Bucket seat"
+  },
+  {
+    "autoParts": "Children and baby car seat"
+  },
+  {
+    "autoParts": "Fastener"
+  },
+  {
+    "autoParts": "Headrest"
+  },
+  {
+    "autoParts": "Seat belt"
+  },
+  {
+    "autoParts": "Seat bracket"
+  },
+  {
+    "autoParts": "Seat cover"
+  },
+  {
+    "autoParts": "Seat track"
+  },
+  {
+    "autoParts": "Other seat components"
+  },
+  {
+    "autoParts": "Anti-lock braking system (ABS)"
+  },
+  {
+    "autoParts": "ABS steel pin"
+  },
+  {
+    "autoParts": "Adjusting mechanism (adjuster star wheel)"
+  },
+  {
+    "autoParts": "Anchor"
+  },
+  {
+    "autoParts": "Bleed nipple"
+  },
+  {
+    "autoParts": "Brake backing plate"
+  },
+  {
+    "autoParts": "Brake backing pad"
+  },
+  {
+    "autoParts": "Brake cooling duct"
+  },
+  {
+    "autoParts": "Brake disc"
+  },
+  {
+    "autoParts": "Brake drum"
+  },
+  {
+    "autoParts": "Brake line/Cable"
+  },
+  {
+    "autoParts": "Brake pad"
+  },
+  {
+    "autoParts": "Brake pedal"
+  },
+  {
+    "autoParts": "Brake piston"
+  },
+  {
+    "autoParts": "Brake pump"
+  },
+  {
+    "autoParts": "Brake roll"
+  },
+  {
+    "autoParts": "Brake rotor"
+  },
+  {
+    "autoParts": "Brake servo"
+  },
+  {
+    "autoParts": "Brake shoe"
+  },
+  {
+    "autoParts": "Brake lining"
+  },
+  {
+    "autoParts": "Shoe web"
+  },
+  {
+    "autoParts": "Brake warning light"
+  },
+  {
+    "autoParts": "Calibrated friction brake"
+  },
+  {
+    "autoParts": "Caliper"
+  },
+  {
+    "autoParts": "Combination valve"
+  },
+  {
+    "autoParts": "Dual circuit brake system"
+  },
+  {
+    "autoParts": "Hold-down springs (retainer springs)"
+  },
+  {
+    "autoParts": "Hose"
+  },
+  {
+    "autoParts": "Brake booster hose"
+  },
+  {
+    "autoParts": "Air brake nylon hose"
+  },
+  {
+    "autoParts": "Brake duct hose"
+  },
+  {
+    "autoParts": "Hydraulic booster unit"
+  },
+  {
+    "autoParts": "Load-sensing valve"
+  },
+  {
+    "autoParts": "Master cylinder"
+  },
+  {
+    "autoParts": "Metering valve"
+  },
+  {
+    "autoParts": "Other braking system parts"
+  },
+  {
+    "autoParts": "Park brake lever/handle (hand brake)"
+  },
+  {
+    "autoParts": "Pressure differential valve"
+  },
+  {
+    "autoParts": "Proportioning valve"
+  },
+  {
+    "autoParts": "Reservoir"
+  },
+  {
+    "autoParts": "Shoe return spring"
+  },
+  {
+    "autoParts": "Tyre"
+  },
+  {
+    "autoParts": "Vacuum brake booster"
+  },
+  {
+    "autoParts": "Wheel cylinder (slave cylinder)"
+  },
+  {
+    "autoParts": "Wheel stud"
+  },
+  {
+    "autoParts": "Diesel engine"
+  },
+  {
+    "autoParts": "petrol engine (gasoline engine)"
+  },
+  {
+    "autoParts": "Accessory belt"
+  },
+  {
+    "autoParts": "Air duct"
+  },
+  {
+    "autoParts": "Air intake housing"
+  },
+  {
+    "autoParts": "Air intake manifold"
+  },
+  {
+    "autoParts": "Camshaft"
+  },
+  {
+    "autoParts": "Camshaft bearing"
+  },
+  {
+    "autoParts": "Camshaft fastener"
+  },
+  {
+    "autoParts": "Camshaft follower"
+  },
+  {
+    "autoParts": "Camshaft locking plate"
+  },
+  {
+    "autoParts": "Camshaft pushrod"
+  },
+  {
+    "autoParts": "Camshaft spacer ring"
+  },
+  {
+    "autoParts": "Connecting rod"
+  },
+  {
+    "autoParts": "Connecting rod bearing"
+  },
+  {
+    "autoParts": "Connecting rod bolt"
+  },
+  {
+    "autoParts": "Connecting rod washer"
+  },
+  {
+    "autoParts": "Crank case"
+  },
+  {
+    "autoParts": "Crank pulley"
+  },
+  {
+    "autoParts": "Crankshaft"
+  },
+  {
+    "autoParts": "Crankshaft oil seal"
+  },
+  {
+    "autoParts": "Cylinder head"
+  },
+  {
+    "autoParts": "Cylinder head cover"
+  },
+  {
+    "autoParts": "Other cylinder head cover parts"
+  },
+  {
+    "autoParts": "Cylinder head gasket"
+  },
+  {
+    "autoParts": "Distributor"
+  },
+  {
+    "autoParts": "Distributor cap"
+  },
+  {
+    "autoParts": "Drive belt"
+  },
+  {
+    "autoParts": "Engine block"
+  },
+  {
+    "autoParts": "Engine block"
+  },
+  {
+    "autoParts": "Engine cradle"
+  },
+  {
+    "autoParts": "Engine shake damper and vibration absorber"
+  },
+  {
+    "autoParts": "Engine valve"
+  },
+  {
+    "autoParts": "Fan belt"
+  },
+  {
+    "autoParts": "Gudgeon pin (wrist pin)"
+  },
+  {
+    "autoParts": "Harmonic balancer"
+  },
+  {
+    "autoParts": "Heater"
+  },
+  {
+    "autoParts": "Mounting"
+  },
+  {
+    "autoParts": "Piston"
+  },
+  {
+    "autoParts": "Piston pin and crank pin"
+  },
+  {
+    "autoParts": "Piston pin bush"
+  },
+  {
+    "autoParts": "Piston ring and circlip"
+  },
+  {
+    "autoParts": "Poppet valve"
+  },
+  {
+    "autoParts": "PCV valve (positive crankcase ventilation valve)"
+  },
+  {
+    "autoParts": "Pulley part"
+  },
+  {
+    "autoParts": "Rocker arm"
+  },
+  {
+    "autoParts": "Rocker cover"
+  },
+  {
+    "autoParts": "Starter motor"
+  },
+  {
+    "autoParts": "Starter pinion"
+  },
+  {
+    "autoParts": "Starter ring"
+  },
+  {
+    "autoParts": "Turbocharger and supercharger"
+  },
+  {
+    "autoParts": "Tappet"
+  },
+  {
+    "autoParts": "Timing tape"
+  },
+  {
+    "autoParts": "Valve cover"
+  },
+  {
+    "autoParts": "Valve housing"
+  },
+  {
+    "autoParts": "Valve spring"
+  },
+  {
+    "autoParts": "Valve stem seal"
+  },
+  {
+    "autoParts": "Water pump pulley"
+  },
+  {
+    "autoParts": "Air blower"
+  },
+  {
+    "autoParts": "Coolant hose (clamp)"
+  },
+  {
+    "autoParts": "Cooling fan"
+  },
+  {
+    "autoParts": "Fan blade"
+  },
+  {
+    "autoParts": "Fan clutch"
+  },
+  {
+    "autoParts": "Radiator"
+  },
+  {
+    "autoParts": "Radiator bolt"
+  },
+  {
+    "autoParts": "Radiator (fan) shroud"
+  },
+  {
+    "autoParts": "Radiator gasket"
+  },
+  {
+    "autoParts": "Radiator pressure cap"
+  },
+  {
+    "autoParts": "Overflow tank"
+  },
+  {
+    "autoParts": "Water neck"
+  },
+  {
+    "autoParts": "Water neck o-ring"
+  },
+  {
+    "autoParts": "Water pipe"
+  },
+  {
+    "autoParts": "Water pump"
+  },
+  {
+    "autoParts": "Water pump gasket"
+  },
+  {
+    "autoParts": "Water tank"
+  },
+  {
+    "autoParts": "Oil filter"
+  },
+  {
+    "autoParts": "Oil gasket"
+  },
+  {
+    "autoParts": "Oil pan"
+  },
+  {
+    "autoParts": "Oil pipe"
+  },
+  {
+    "autoParts": "Oil pump"
+  },
+  {
+    "autoParts": "Oil strainer"
+  },
+  {
+    "autoParts": "Catalytic converter"
+  },
+  {
+    "autoParts": "Exhaust clamp and bracket"
+  },
+  {
+    "autoParts": "Exhaust flange gasket"
+  },
+  {
+    "autoParts": "Exhaust gasket"
+  },
+  {
+    "autoParts": "Exhaust manifold"
+  },
+  {
+    "autoParts": "Exhaust manifold gasket"
+  },
+  {
+    "autoParts": "Exhaust pipe"
+  },
+  {
+    "autoParts": "Heat shield"
+  },
+  {
+    "autoParts": "Heat sleeving and tape"
+  },
+  {
+    "autoParts": "Resonator"
+  },
+  {
+    "autoParts": "Muffler (silencer)"
+  },
+  {
+    "autoParts": "Spacer ring"
+  },
+  {
+    "autoParts": "ely"
+  },
+  {
+    "autoParts": "Air filter"
+  },
+  {
+    "autoParts": "Carburetor"
+  },
+  {
+    "autoParts": "Carburetor parts"
+  },
+  {
+    "autoParts": "Choke cable"
+  },
+  {
+    "autoParts": "EGR valve"
+  },
+  {
+    "autoParts": "Fuel cap"
+  },
+  {
+    "autoParts": "Fuel cell"
+  },
+  {
+    "autoParts": "Fuel cell component"
+  },
+  {
+    "autoParts": "Fuel cooler"
+  },
+  {
+    "autoParts": "Fuel distributor"
+  },
+  {
+    "autoParts": "Fuel filter"
+  },
+  {
+    "autoParts": "Fuel filter seal"
+  },
+  {
+    "autoParts": "Fuel injector"
+  },
+  {
+    "autoParts": "Fuel injector nozzle"
+  },
+  {
+    "autoParts": "Fuel pump"
+  },
+  {
+    "autoParts": "Fuel pump gasket"
+  },
+  {
+    "autoParts": "Fuel pressure regulator"
+  },
+  {
+    "autoParts": "Fuel rail"
+  },
+  {
+    "autoParts": "Fuel tank"
+  },
+  {
+    "autoParts": "Fuel tank cover"
+  },
+  {
+    "autoParts": "Fuel water separator"
+  },
+  {
+    "autoParts": "Intake manifold"
+  },
+  {
+    "autoParts": "Intake manifold gasket"
+  },
+  {
+    "autoParts": "LPG (Liquefied petroleum gas) system assembly"
+  },
+  {
+    "autoParts": "Throttle body"
+  },
+  {
+    "autoParts": "Beam axle"
+  },
+  {
+    "autoParts": "Control arm"
+  },
+  {
+    "autoParts": "Constant-velocity axle"
+  },
+  {
+    "autoParts": "Constant-velocity joint"
+  },
+  {
+    "autoParts": "Idler arm"
+  },
+  {
+    "autoParts": "Kingpin"
+  },
+  {
+    "autoParts": "Panhard rod"
+  },
+  {
+    "autoParts": "Pitman arm"
+  },
+  {
+    "autoParts": "Power steering assembly and component"
+  },
+  {
+    "autoParts": "Rack end"
+  },
+  {
+    "autoParts": "Shock absorber"
+  },
+  {
+    "autoParts": "Spindle"
+  },
+  {
+    "autoParts": "Spring"
+  },
+  {
+    "autoParts": "Air spring"
+  },
+  {
+    "autoParts": "Coil spring"
+  },
+  {
+    "autoParts": "Leaf and parabolic leaf spring"
+  },
+  {
+    "autoParts": "Rubber spring"
+  },
+  {
+    "autoParts": "Spiral spring"
+  },
+  {
+    "autoParts": "Stabilizer bars and link"
+  },
+  {
+    "autoParts": "Steering arm"
+  },
+  {
+    "autoParts": "Steering box"
+  },
+  {
+    "autoParts": "Steering column assembly"
+  },
+  {
+    "autoParts": "Steering rack (a form of steering gear"
+  },
+  {
+    "autoParts": "Steering shaft"
+  },
+  {
+    "autoParts": "Steering wheel (driving wheel)"
+  },
+  {
+    "autoParts": "Strut"
+  },
+  {
+    "autoParts": "Stub axle"
+  },
+  {
+    "autoParts": "Suspension link and bolt"
+  },
+  {
+    "autoParts": "Tie bar"
+  },
+  {
+    "autoParts": "Tie rod"
+  },
+  {
+    "autoParts": "Tie rod end"
+  },
+  {
+    "autoParts": "Trailing arm"
+  },
+  {
+    "autoParts": "Adjustable pedal"
+  },
+  {
+    "autoParts": "Axle shaft"
+  },
+  {
+    "autoParts": "Bell housing"
+  },
+  {
+    "autoParts": "Cam belt"
+  },
+  {
+    "autoParts": "Other belts"
+  },
+  {
+    "autoParts": "Carrier assembly"
+  },
+  {
+    "autoParts": "Chain wheel and sprocket"
+  },
+  {
+    "autoParts": "Clutch assembly"
+  },
+  {
+    "autoParts": "Clutch cable"
+  },
+  {
+    "autoParts": "Clutch disk"
+  },
+  {
+    "autoParts": "Clutch fan"
+  },
+  {
+    "autoParts": "Clutch fork"
+  },
+  {
+    "autoParts": "Clutch hose"
+  },
+  {
+    "autoParts": "Clutch lever"
+  },
+  {
+    "autoParts": "Clutch lining"
+  },
+  {
+    "autoParts": "Clutch pedal"
+  },
+  {
+    "autoParts": "Clutch pressure plate"
+  },
+  {
+    "autoParts": "Clutch shoe"
+  },
+  {
+    "autoParts": "Clutch spring"
+  },
+  {
+    "autoParts": "Differential"
+  },
+  {
+    "autoParts": "Differential case"
+  },
+  {
+    "autoParts": "Pinion bearing"
+  },
+  {
+    "autoParts": "Differential clutch"
+  },
+  {
+    "autoParts": "Spider gears"
+  },
+  {
+    "autoParts": "Differential casing"
+  },
+  {
+    "autoParts": "Differential flange"
+  },
+  {
+    "autoParts": "Differential gear"
+  },
+  {
+    "autoParts": "Differential seal"
+  },
+  {
+    "autoParts": "Flywheel"
+  },
+  {
+    "autoParts": "Flywheel ring gear"
+  },
+  {
+    "autoParts": "Gear"
+  },
+  {
+    "autoParts": "Gear coupling"
+  },
+  {
+    "autoParts": "Gear pump"
+  },
+  {
+    "autoParts": "Gear ring"
+  },
+  {
+    "autoParts": "Gear stick (gearstick"
+  },
+  {
+    "autoParts": "gear lever"
+  },
+  {
+    "autoParts": "selection lever"
+  },
+  {
+    "autoParts": "shift stick"
+  },
+  {
+    "autoParts": "gear shifter)"
+  },
+  {
+    "autoParts": "Gearbox"
+  },
+  {
+    "autoParts": "Idler gear"
+  },
+  {
+    "autoParts": "Knuckle"
+  },
+  {
+    "autoParts": "Master cylinder"
+  },
+  {
+    "autoParts": "Output shaft"
+  },
+  {
+    "autoParts": "Pinion"
+  },
+  {
+    "autoParts": "Planetary gear set"
+  },
+  {
+    "autoParts": "Prop shaft (drive shaft"
+  },
+  {
+    "autoParts": "propeller shaft)"
+  },
+  {
+    "autoParts": "Shift cable"
+  },
+  {
+    "autoParts": "Shift fork"
+  },
+  {
+    "autoParts": "Shift knob"
+  },
+  {
+    "autoParts": "Shift lever"
+  },
+  {
+    "autoParts": "Slave cylinder"
+  },
+  {
+    "autoParts": "Speed reducer"
+  },
+  {
+    "autoParts": "Speedometer gear"
+  },
+  {
+    "autoParts": "Steering gear"
+  },
+  {
+    "autoParts": "Torque converter"
+  },
+  {
+    "autoParts": "Transaxle housing"
+  },
+  {
+    "autoParts": "Transfer case"
+  },
+  {
+    "autoParts": "Transmission gear"
+  },
+  {
+    "autoParts": "Transmission pan"
+  },
+  {
+    "autoParts": "Transmission seal and bonded piston"
+  },
+  {
+    "autoParts": "Transmission spring"
+  },
+  {
+    "autoParts": "Transmission yolk"
+  },
+  {
+    "autoParts": "Universal joint (UJ"
+  },
+  {
+    "autoParts": "cardan joint)"
+  },
+  {
+    "autoParts": "A/C clutch"
+  },
+  {
+    "autoParts": "A/C compressor"
+  },
+  {
+    "autoParts": "A/C condenser"
+  },
+  {
+    "autoParts": "A/C hose"
+  },
+  {
+    "autoParts": "A/C kit"
+  },
+  {
+    "autoParts": "A/C relay"
+  },
+  {
+    "autoParts": "A/C valve"
+  },
+  {
+    "autoParts": "A/C expansion valve"
+  },
+  {
+    "autoParts": "A/C low-pressure valve"
+  },
+  {
+    "autoParts": "A/C schrader valve"
+  },
+  {
+    "autoParts": "A/C INNER PLATE"
+  },
+  {
+    "autoParts": "A/C COOLER"
+  },
+  {
+    "autoParts": "A/C Evaporator"
+  },
+  {
+    "autoParts": "Ball joint"
+  },
+  {
+    "autoParts": "Grooved ball bearing"
+  },
+  {
+    "autoParts": "Needle bearing"
+  },
+  {
+    "autoParts": "Roller bearing"
+  },
+  {
+    "autoParts": "Sleeve bearing"
+  },
+  {
+    "autoParts": "Fuel vapour hose"
+  },
+  {
+    "autoParts": "Reinforced hose (high-pressure hose)"
+  },
+  {
+    "autoParts": "Non-reinforced hose"
+  },
+  {
+    "autoParts": "Washer hose"
+  },
+  {
+    "autoParts": "Adhesive tape and foil"
+  },
+  {
+    "autoParts": "Air bag"
+  },
+  {
+    "autoParts": "Bolt cap"
+  },
+  {
+    "autoParts": "Bracket (aluminium"
+  },
+  {
+    "autoParts": "iron"
+  },
+  {
+    "autoParts": "and magnesium bracket)"
+  },
+  {
+    "autoParts": "License plate bracket"
+  },
+  {
+    "autoParts": "Cables"
+  },
+  {
+    "autoParts": "Speedometer cable"
+  },
+  {
+    "autoParts": "Cotter pin"
+  },
+  {
+    "autoParts": "Decal"
+  },
+  {
+    "autoParts": "Dashboard"
+  },
+  {
+    "autoParts": "Center console"
+  },
+  {
+    "autoParts": "Glove compartment"
+  },
+  {
+    "autoParts": "Drag link"
+  },
+  {
+    "autoParts": "Dynamic seal"
+  },
+  {
+    "autoParts": "Fastener"
+  },
+  {
+    "autoParts": "Gasket: Flat"
+  },
+  {
+    "autoParts": "moulded"
+  },
+  {
+    "autoParts": "profiled"
+  },
+  {
+    "autoParts": "Hood and trunk release cable"
+  },
+  {
+    "autoParts": "Horn and trumpet horn"
+  },
+  {
+    "autoParts": "Injection-molded parts"
+  },
+  {
+    "autoParts": "Instrument cluster"
+  },
+  {
+    "autoParts": "Label"
+  },
+  {
+    "autoParts": "Mirror"
+  },
+  {
+    "autoParts": "Mount and mounting"
+  },
+  {
+    "autoParts": "Name plate"
+  },
+  {
+    "autoParts": "Nut"
+  },
+  {
+    "autoParts": "Flange nut"
+  },
+  {
+    "autoParts": "Hex nut"
+  },
+  {
+    "autoParts": "O-ring"
+  },
+  {
+    "autoParts": "Paint"
+  },
+  {
+    "autoParts": "Rivet"
+  },
+  {
+    "autoParts": "Rubber (extruded and molded)"
+  },
+  {
+    "autoParts": "Screw"
+  },
+  {
+    "autoParts": "Shim"
+  },
+  {
+    "autoParts": "Sun visor"
+  },
+  {
+    "autoParts": "Washer"
+  }
+]
