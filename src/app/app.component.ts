@@ -24,6 +24,7 @@ export class AppComponent implements OnInit {
   matcher = new MyErrorStateMatcher();
   carOptions: Array<any>;
   autoPartsOptions: Array<any>;
+  isSubmitted = false;
   constructor() {
     this.carOptions = (carNames as any).default;
     this.autoPartsOptions = (autoPartNames as any).default;
@@ -39,10 +40,12 @@ export class AppComponent implements OnInit {
     });
   }
   submitForm(): void {
+    this.isSubmitted = true;
     this.submitCarAction.emit(this.carRegistrationModel);
   }
   resetForm(): void {
+    this.isSubmitted = false;
     this.carRegistrationForm.reset();
-    this.carRegistrationModel.colorCode = '#ffffff';
+    this.carRegistrationForm.get('colorCode').setValue('#ffffff');
   }
 }

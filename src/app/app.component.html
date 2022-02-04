@@ -69,4 +69,57 @@
       </div>
     </div>
   </div>
+  <div class="row" *ngIf="isSubmitted">
+    <div class="col-md-9">
+      <div class="card">
+        <div class="card-header">
+          <h2 class="text-center">Form Details</h2>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="row">
+                <div class="col-md-6">
+                  <p><strong>Full Name</strong></p>
+                </div>
+                <div class="col-md-6">
+                  <p>{{carRegistrationModel.fullName}}</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="row">
+                <div class="col-md-6">
+                  <p><strong>Selected Car</strong></p>
+                </div>
+                <div class="col-md-6">
+                  <p>{{carRegistrationModel.selectedCar}}</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="row">
+                <div class="col-md-6">
+                  <p><strong>Selected Auto Parts</strong></p>
+                </div>
+                <div class="col-md-6">
+                  <p>{{carRegistrationModel.selectedAutoParts?.join(',')}}</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="row">
+                <div class="col-md-6">
+                  <p><strong>Color Code</strong></p>
+                </div>
+                <div class="col-md-6">
+                  <p>{{carRegistrationModel.colorCode}}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
