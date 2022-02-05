@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "netcore-challenge": {
+    "angular-netcore-challenge": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/netcore-challenge",
+            "outputPath": "dist/angular-netcore-challenge",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -63,18 +63,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "netcore-challenge:build"
+            "browserTarget": "angular-netcore-challenge:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "netcore-challenge:build:production"
+              "browserTarget": "angular-netcore-challenge:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "netcore-challenge:build"
+            "browserTarget": "angular-netcore-challenge:build"
           }
         },
         "test": {
@@ -112,16 +112,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "netcore-challenge:serve"
+            "devServerTarget": "angular-netcore-challenge:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "netcore-challenge:serve:production"
+              "devServerTarget": "angular-netcore-challenge:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "netcore-challenge"
+  "defaultProject": "angular-netcore-challenge"
 }

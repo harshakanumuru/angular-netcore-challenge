@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/netcore-challenge'),
+      dir: require('path').join(__dirname, './coverage/angular-netcore-challenge'),
       subdir: '.',
       reporters: [
         { type: 'html' },
